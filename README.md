@@ -19,7 +19,7 @@
 1. 프로그램 다운로드
 ```bash
 # 파일들이 있는 디렉토리로 이동
-cd /path/to/hello
+cd /path/to/personal-schedule-assistant
 ```
 
 2. 프로그램 실행
